@@ -33,10 +33,10 @@ The official document from RStudio can be found [here](http://rmarkdown.rstudio.
 
 - Commit and push everything from RStudio.
 
-- Go see your new website with your own content at https://YOURGITHUB.github.io/.
+- Go see your new website with your own content at https://github.com/EmmaBJohannsen/rmarkdown-website-template.io/.
 
 ### The blog part
-
+s
 For now, the 'Blog' link is giving a 404 page. 
 
 If you want to add a static blog to your webpage, go [there](https://github.com/privefl/jekyll-now-r-template).
